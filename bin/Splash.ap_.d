@@ -1,0 +1,21 @@
+/Users/godfrey/Downloads/optimization-example/bin/Splash.ap_ \
+ : /Users/godfrey/Downloads/optimization-example/res/drawable/splash.jpeg \
+/Users/godfrey/Downloads/optimization-example/res/drawable-hdpi/ic_launcher.png \
+/Users/godfrey/Downloads/optimization-example/res/drawable-mdpi/ic_launcher.png \
+/Users/godfrey/Downloads/optimization-example/res/drawable-xhdpi/ic_launcher.png \
+/Users/godfrey/Downloads/optimization-example/res/drawable-xxhdpi/ic_launcher.png \
+/Users/godfrey/Downloads/optimization-example/res/layout/main.xml \
+/Users/godfrey/Downloads/optimization-example/res/layout/splash.xml \
+/Users/godfrey/Downloads/optimization-example/res/menu/todo.xml \
+/Users/godfrey/Downloads/optimization-example/res/values/dimens.xml \
+/Users/godfrey/Downloads/optimization-example/res/values/strings.xml \
+/Users/godfrey/Downloads/optimization-example/res/values/styles.xml \
+/Users/godfrey/Downloads/optimization-example/res/values-sw600dp/dimens.xml \
+/Users/godfrey/Downloads/optimization-example/res/values-sw720dp-land/dimens.xml \
+/Users/godfrey/Downloads/optimization-example/res/values-v11/styles.xml \
+/Users/godfrey/Downloads/optimization-example/res/values-v14/styles.xml \
+/Users/godfrey/Downloads/optimization-example/bin/res/drawable-hdpi/ic_launcher.png \
+/Users/godfrey/Downloads/optimization-example/bin/res/drawable-mdpi/ic_launcher.png \
+/Users/godfrey/Downloads/optimization-example/bin/res/drawable-xhdpi/ic_launcher.png \
+/Users/godfrey/Downloads/optimization-example/bin/res/drawable-xxhdpi/ic_launcher.png \
+/Users/godfrey/Downloads/optimization-example/bin/AndroidManifest.xml \
