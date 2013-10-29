@@ -131,7 +131,7 @@ public class TodoActivity extends Activity
 	{
         // TIP: Use Strictmode to detect unwanted disk or network access
         // Remove from production code
-		
+
         StrictMode.setThreadPolicy(new StrictMode.ThreadPolicy.Builder()
                 .detectDiskReads()
                 .detectDiskWrites()
@@ -160,9 +160,10 @@ public class TodoActivity extends Activity
         // Once GC occurs, a large amount of the heap memory is dumped, especially with
         // local data structures, render a large portion of the heap unused.
         // SEE: deoptimizedHeap.png, optimizedHeap.png
-        ArrayList<uselessClass> uselessObject = new ArrayList<uselessClass>();
-        for (int i=0; i<100000; i++)
-            uselessObject.add(new uselessClass());
+        // comment out as it will crash the app
+        // ArrayList<uselessClass> uselessObject = new ArrayList<uselessClass>();
+        // for (int i=0; i<100000; i++)
+        //    uselessObject.add(new uselessClass());
 	}
 
 	private void renderTodos()
