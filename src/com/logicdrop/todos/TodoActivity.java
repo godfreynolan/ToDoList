@@ -160,7 +160,8 @@ public class TodoActivity extends Activity
         // Once GC occurs, a large amount of the heap memory is dumped, especially with
         // local data structures, render a large portion of the heap unused.
         // SEE: deoptimizedHeap.png, optimizedHeap.png
-        // comment out as it will crash the app
+
+        // the following code will crash the app if uncommented
         // ArrayList<uselessClass> uselessObject = new ArrayList<uselessClass>();
         // for (int i=0; i<100000; i++)
         //    uselessObject.add(new uselessClass());

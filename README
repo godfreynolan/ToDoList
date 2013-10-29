@@ -1,6 +1,7 @@
+# ToDoList app for Android Best Practices book
+# These examples are for Agile Android chapter
 
 # Calabash tests are in calabash directory run them by typing
 calabash-android run <name of apk>
 
-# Roboelectric tests are in the roboelectric branch
 
