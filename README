@@ -1,1 +1,7 @@
-test`
+
+
+
+# Calabash tests are in calabash directory run them by typing
+calabash-android run <name of apk>
+
+
