@@ -4,4 +4,5 @@
 # Calabash tests are in calabash directory run them by typing
 calabash-android run <name of apk>
 
+# roboelectric tests are in https://github.com/godfreynolan/ToDoListRoboElectric
 
